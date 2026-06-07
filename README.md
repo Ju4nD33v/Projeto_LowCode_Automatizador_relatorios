@@ -1,4 +1,4 @@
-# Gerador de Relatórios Automatizados — Excel para PDF
+# Gerador de Relatórios Automatizados — Excel para PDF 
 
 > Sistema Python que lê planilhas `.xlsx` e exporta relatórios profissionais em PDF com gráficos e tabelas de dados, de forma totalmente automatizada.
 
